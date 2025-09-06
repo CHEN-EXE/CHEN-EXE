@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to teach me: React and GO or PowerShell
 - ⚡ My webiste is: ![NaOH's Website](https://naohqyhns.xyz)
 
+![Check](https://github-readme-stats.vercel.app/api?username=CHEN-EXE&show_icons=true&hide_title=true)
