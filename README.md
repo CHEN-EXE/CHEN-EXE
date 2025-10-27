@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ![Check](https://github-readme-stats.vercel.app/api?username=CHEN-EXE&show_icons=true&hide_title=true)
 
-<button>Go to my Blog.</button>
+<button style="color:red;">Go to my Blog.</button>
