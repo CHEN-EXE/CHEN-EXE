@@ -1,17 +1,317 @@
-<h1 style="text-align:center;">Hi there 🥰</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=CHEN-EXE&fontSize=90&fontColor=00FFFF&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Cloud+Systems;Vue+%7C+Node.js+%7C+Linux;Turning+Ideas+Into+Reality"/>
 
 
-✨ My name is NaOH(CHEN-EXE)
-
-I have most ideas💡:
-
-- 🔭 I like creative
-- 🌱 I’m currently learning vue.js or React
-- 💬 We can discuss some project.
-- 📫 My mail: qyhn@my.naoh.ddns-ip.net
-- ⚡ This is my website: https://naohqyhns.xyz
-
-![CheckAwesome](https://github-readme-stats.vercel.app/api?username=CHEN-EXE&show_icons=true&hide_title=true)
+<br>
 
 
-![Tag](https://camo.githubusercontent.com/f29c5aad188a7d379d4df07dc2f5863343cd8cf4261346e676b7688f26d004ce/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d70792c6a6176612c68746d6c2c6373732c6a732c6d64)
+<a href="README_CN.md">
+<img src="https://img.shields.io/badge/中文-README-red?style=for-the-badge"/>
+</a>
+
+<a href="README.md">
+<img src="https://img.shields.io/badge/English-README-blue?style=for-the-badge"/>
+</a>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=CHEN-EXE&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF"/>
+
+<img src="https://img.shields.io/github/followers/CHEN-EXE?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/CHEN-EXE?style=for-the-badge&logo=github"/>
+
+</div>
+
+
+---
+
+# 👨‍💻 About Me
+
+
+<img align="right" width="250"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHEN-EXE&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+```yaml
+User:
+  Name: NaOH
+  Alias: CHEN-EXE
+
+Focus:
+  - Full Stack Development
+  - Cloud Storage
+  - Backend Architecture
+
+Currently:
+  - Vue.js
+  - React
+  - Node.js
+  - Docker
+
+Love:
+  - Creating Projects
+  - Exploring Technology
+  - Open Source
+
+Website:
+  https://naohqyhns.xyz
+```
+
+
+<br clear="right"/>
+
+
+---
+
+# 🧰 Technology Stack
+
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,nodejs,python,php,mysql,redis,mongodb,html,css,js,ts,vue,react,vite,npm,git,github&perline=10"/>
+
+
+</div>
+
+
+---
+
+# 🚀 Featured Projects
+
+
+<table>
+
+<tr>
+
+
+<td width="50%">
+
+
+<h3 align="center">
+
+☁️ Cloud Storage System
+
+</h3>
+
+
+<p align="center">
+
+Personal Cloud Drive
+
+<br>
+
+Vue + Node.js + MySQL
+
+<br>
+
+File Management / Sharing / Storage SDK
+
+</p>
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+<h3 align="center">
+
+⚡ Web Platform
+
+</h3>
+
+
+<p align="center">
+
+Modern Web Application
+
+<br>
+
+Vue Ecosystem
+
+<br>
+
+Responsive UI / Dark Mode
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td width="50%">
+
+
+<h3 align="center">
+
+🐳 DevOps Environment
+
+</h3>
+
+
+<p align="center">
+
+Linux
+
+<br>
+
+Docker
+
+<br>
+
+Nginx
+
+<br>
+
+Server Management
+
+</p>
+
+
+</td>
+
+
+
+<td width="50%">
+
+
+<h3 align="center">
+
+🔧 Open Source
+
+</h3>
+
+
+<p align="center">
+
+Building useful tools
+
+<br>
+
+Sharing ideas
+
+</p>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+
+# 🏢 Organization
+
+
+<div align="center">
+
+<a href="https://coludai.cn" target="_blank">
+<img width="30"
+src="https://coludai.cn/assets/logo-white.png"/>
+
+
+<br>
+
+
+### ColudAI
+
+
+Cloud Technology & Development Team
+</a>
+
+</div>
+
+
+---
+
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=CHEN-EXE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+
+<img height="180"
+src="https://github-readme-streak-stats.herokuapp.com/?user=CHEN-EXE&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+<div align="center">
+
+
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=CHEN-EXE&theme=tokyo-night&hide_border=true"/>
+
+
+</div>
+
+
+---
+
+
+
+# 📫 Connect With Me
+
+
+<div align="center">
+
+
+<a href="mailto:qyhn@my.naoh.ddns-ip.net">
+
+<img src="https://img.shields.io/badge/Email-qyhn%40my.naoh.ddns--ip.net-00FFFF?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+
+<a href="https://qyhn.ccwu.cc">
+
+<img src="https://img.shields.io/badge/Website-naohqyhns.xyz-black?style=for-the-badge&logo=googlechrome"/>
+
+</a>
+
+
+</div>
+
+
+---
+
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+
+
+</div>
