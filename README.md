@@ -80,7 +80,7 @@ Website:
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,nodejs,python,php,mysql,redis,mongodb,html,css,js,ts,vue,react,vite,npm,git,github&perline=10"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,nodejs,python,php,mysql,redis,mongodb,html,css,js,ts,vue,react,vite,npm,git,github,tailwindcss&perline=10"/>
 
 
 </div>
